@@ -56,5 +56,5 @@ URL: https://nogyoya.jp/fc/post/
 ■ 機能の実装方針予定
 見積中。
 
-### 画面遷移図
+###　画面遷移図
 Figma：https://www.figma.com/design/FmEMws8ZvGzCD46H9HXjiW/Untitled?node-id=31-58&m=dev&t=3i0uKaflZp34jjKP-1
