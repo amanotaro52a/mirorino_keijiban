@@ -58,3 +58,6 @@ URL: https://nogyoya.jp/fc/post/
 
 ###　画面遷移図
 Figma：https://www.figma.com/design/FmEMws8ZvGzCD46H9HXjiW/Untitled?node-id=31-58&m=dev&t=3i0uKaflZp34jjKP-1
+
+### ER図
+[![Image from Gyazo](https://i.gyazo.com/1ffc2d4d957a85110351e5177b86cbc0.png)](https://gyazo.com/1ffc2d4d957a85110351e5177b86cbc0)
