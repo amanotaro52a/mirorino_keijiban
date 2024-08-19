@@ -60,4 +60,4 @@ URL: https://nogyoya.jp/fc/post/
 Figma：https://www.figma.com/design/FmEMws8ZvGzCD46H9HXjiW/Untitled?node-id=31-58&m=dev&t=3i0uKaflZp34jjKP-1
 
 ### ER図
-[![Image from Gyazo](https://i.gyazo.com/3a2c69b69f3c9ad2def5ce1dbbac9100.png)](https://gyazo.com/3a2c69b69f3c9ad2def5ce1dbbac9100)
+[![Image from Gyazo](https://i.gyazo.com/1992ef6fd8523f5b38b7697feee98b6e.png)](https://gyazo.com/1992ef6fd8523f5b38b7697feee98b6e)
