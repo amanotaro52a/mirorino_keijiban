@@ -72,7 +72,7 @@ jobs:
       - name: Run tests
         env:
           RAILS_ENV: test
-          DATABASE_URL: postgres://postgres:password@127.0.0.1:5432/myapp_development
+          DATABASE_URL: postgres://postgres:password@postgres:5432/myapp_development
         run: bin/rails db:test:prepare test test:system
 
       - name: Keep screenshots from failed system tests
