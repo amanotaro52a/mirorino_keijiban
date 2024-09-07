@@ -42,9 +42,11 @@ jobs:
 
     services:
       mysql:
-        image: mysql
+        image: postgres:13
         env:
-          MYSQL_ALLOW_EMPTY_PASSWORD: true
+          POSTGRES_USER: postgres      # PostgreSQLのユーザー名
+          POSTGRES_PASSWORD: password  # PostgreSQLのパスワード
+          POSTGRES_DB: myapp_development
         ports:
           - 3306:3306
         options: --health-cmd="mysqladmin ping" --health-interval=10s --health-timeout=5s --health-retries=3
