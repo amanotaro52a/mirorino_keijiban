@@ -41,6 +41,12 @@ jobs:
     runs-on: ubuntu-latest
 
     services:
+      web:
+        build: .
+        ports:
+          - 3000:3000
+        depends_on:
+          - postgres
       postgres:
         image: postgres:13
         env:
