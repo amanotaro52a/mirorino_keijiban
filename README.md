@@ -38,7 +38,7 @@ https://www.daiichi-engei.jp/wp/wp-content/uploads/2024/08/a02e920d72a4b756a6477
 | 植物名のオートコンプリート検索 |
 | :---: | 
 | <img width="600" height="302" alt="オートコンプリート動画gif" src="https://github.com/user-attachments/assets/7f9edf7c-0039-411f-a226-e41ab6c8a3db" />|
-| <p align="left">『植物名』の検索欄にはオートコンプリート機能が備わっており、最初の一文字を入力するだけで、投稿されている植物名を割り出すことができます。(
+| <p align="left">『植物名』の検索欄にはオートコンプリート機能が実装されているため、最初の一文字を入力するだけで投稿されている植物名を割り出すことができます。(
 未ログイン時でも使用できます。）</p> |
 <br>
 
