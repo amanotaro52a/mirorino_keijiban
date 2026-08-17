@@ -66,6 +66,7 @@ ja:
       select_prompt: 選択してください
     show:
       title: 投稿詳細
+      created_by: "%{user_name}さんが投稿"
       plant_name: 植物名
       like: "いいね"
     index:
